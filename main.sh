@@ -1,0 +1,1 @@
+cd anikitapp && sh start.sh 
